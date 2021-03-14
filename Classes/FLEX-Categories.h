@@ -9,7 +9,6 @@
 
 
 #import <FLEX/UIBarButtonItem+FLEX.h>
-#import <FLEX/CALayer+FLEX.h>
 #import <FLEX/UIFont+FLEX.h>
 #import <FLEX/UIGestureRecognizer+Blocks.h>
 #import <FLEX/UIPasteboard+FLEX.h>
